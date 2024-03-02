@@ -29,22 +29,22 @@ How to access the Dark Web:
 
 Below is a list of onion links categorized by their respective domains:
 Marketplaces: 
-[
+
 1. Nemesis: http://nemesis555nchzn2dogee6mlc7xxgeeshqirmh3yzn4lo5cnd4s5a4yd.onion
 2. Dark Empire Market: http://2a2a2abbjsjcjwfuozip6idfxsxyowoi3ajqyehqzfqyxezhacur7oyd.onion
 3. Underground Market: http://2222fxq4xfkvilzdihu5ybce 7ztf66fr6c7ub3enabg5iya2f34ac5id.onion
 
-]
+
 
 
 
 Forums: 
-[
+
 1. StockInsider: http://thestock6nonb74owd6utzh4vld3xsf2n2fwxpwywjgq7maj47mvwmid.onion
 2. AnonGTS: http://4usoipy 52Iinc4mgh2h 34cmilislesthr56ytwv2pxud3dapqcyd.onion
 3. Endchan: http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion
 
-]
+
 
 
 
@@ -57,7 +57,7 @@ Miscellaneous: Site 1 Site
 
 
 Mail Provider:
-[
+
 1. Sonar: http://sonarmsng5vzwqezlvtu2iiwwdn3dxkhotftikhowpfjuzg7p3ca5eid.onion
 2. Proton Mail: https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion
 3. Systemli.org: http://7sk2kov2xwx6cbc32phynrifegg6pklmzs7luwcggtzrnlsolxxuyfyd.onion/en/index.html
@@ -67,7 +67,7 @@ Mail Provider:
 7. Email and XMPP: http://danielas3rtn54uwmofdo3x2bsdir47huasnmbgqzfrec5ubupvtpid.onion/mail/
 8. OnionMail: http://pfiujznptk5lmuf6xwadfqy6nffykdvahfbljh7lljailjbxrgvhfid.onion
 9. DNMX: http://dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion
-]
+
 
 
 
