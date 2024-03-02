@@ -120,7 +120,7 @@ VPN
 3. Titan-XMPP: http://titanxsu7bfd7vlyyffilprauwngr4acbnz27ulfhyxrqutu7atyptad.onion
 
 Guns Store
-1. UK Guns and Ammos : http://onili244aue7jkvzn2bgaszcb7nznkpyihdhh7evflp3iskfq7vhlzid.onion
+1. UK Guns and Ammos: http://onili244aue7jkvzn2bgaszcb7nznkpyihdhh7evflp3iskfq7vhlzid.onion
 2. EUROGUN SHOP: http://hyjgsnkanan2wsrksd53na4xigtxhlz57estwqtptzhpa53rxz53pqad.onion/index.php
 3. http://firearmh73frrpeene3bbbdpxj3pgac3yvxafqve2jss3yt6uk4sjfid.onion
 4. http://kw4zInfhxje7top26u57iosg55i7dzuljjcyswo2clgc3mdliviswwyd.onion/product/do-it-yourself-submachine-gun/
@@ -134,7 +134,7 @@ Guns Store
  
 Drug Store
 1. Drug store: http://4p6i33oqj6wgvzgzczyqlueav3tz456rdu632xzyxbnhq4gpsriirtqd.onion/index.php
-2. DC dutchconnectionUK: http//wms5y25kttgihs4rt2sifsbwsjqjrx3vtc42tsu2obksqkj7y666fgid.onion
+2. DC dutchconnectionUK: http//wms5y25kttgihs4rt2sifsbwsjqjrx3vtc42tsu2obksqkj7y666fgid.onion/
 3. 420Prime: http://rbexodz/socx3rupvmhan2d?pvlksdoqmtxexz6acyxblc36a6qgk.onion
 4. TomAndJerry: http://c5xoy22aadb2rqgw3jh2m2irmu563evukqqddu5zjandunaimzaye5id.onion
 5. DrChronic: http://gkcns4d3453llqjrksxdijfmmdjpqsykt6misgojxlhsnpivtl3uwhqd.onion
@@ -179,8 +179,8 @@ Mail Provider:
 8. OnionMail: http://pfiujznptk5lmuf6xwadfqy6nffykdvahfbljh7lljailjbxrgvhfid.onion
 9. DNMX: http://dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion
 10. http://aum5iuua7w7hwwfx62e2durlwfbwc30bt3phvcypplkrzcyjbh6eywyd.onion/en/email
-11. http://g4c3eya7vb35dn5oic6a5mjjbty6ceqod2t7ywui66erekbe27euxkqd.onion/comparison matrices.html
-12. http://g4c3eya7vb35dn5oic6a5mjjbty6ceqod2t7ywui66erekbe27euxkqd.onion/email providers.html
+11. http://g4c3eya7vb35dn5oic6a5mjjbty6ceqod2t7ywui66erekbe27euxkqd.onion/comparisonmatrices.html
+12. http://g4c3eya7vb35dn5oic6a5mjjbty6ceqod2t7ywui66erekbe27euxkqd.onion/emailproviders.html
 13. http://us3xsdrhmhk4h3bkuq7ttkp6pocs4726esycpgwtogrpu3nfjj6eroqd.onion/email-comment-section.6
 14. http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/starttls
 15. http://i4pd4zpyhrojnyx513d2siauy4almteocqow4bp2lqxyocrfy6prycad.onion/threat-library/techniques/service-provider-collaboration.html
