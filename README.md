@@ -56,11 +56,11 @@ Below is a list of onion links categorized by their respective domains:
 Marketplaces: 
 1. Nemesis: http://nemesis555nchzn2dogee6mlc7xxgeeshqirmh3yzn4lo5cnd4s5a4yd.onion
 2. Dark Empire Market: http://2a2a2abbjsjcjwfuozip6idfxsxyowoi3ajqyehqzfqyxezhacur7oyd.onion
-3. Underground Market: http://2222fxq4xfkvilzdihu5ybce 7ztf66fr6c7ub3enabg5iya2f34ac5id.onion
+3. Underground Market: http://2222fxq4xfkvilzdihu5ybce7ztf66fr6c7ub3enabg5iya2f34ac5id.onion
 
 Forums: 
 1. StockInsider: http://thestock6nonb74owd6utzh4vld3xsf2n2fwxpwywjgq7maj47mvwmid.onion
-2. AnonGTS: http://4usoipy 52Iinc4mgh2h34cmilislesthr56ytwv2pxud3dapqcyd.onion
+2. AnonGTS: http://4usoipy52Iinc4mgh2h34cmilislesthr56ytwv2pxud3dapqcyd.onion
 3. Endchan: http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion
 4. http://dna777is7kr46zcsvv7mefmpqwm67irdgyuu5kda2data.3402/
 5. http://dna777is7 kr46zcsvv7mefmpqwm67irdgyuu5kda2anonymity-sellers.10/
@@ -77,7 +77,7 @@ Bitcoin
 2. BitPharma: http://guzjgkpodzshso2nohspxijzk5jgoaxzqioa7vzy6qdmwpz3hq4mwfid.onion
 3. Onion Wallet: http://zw5I7hwmfq2bl7euedg6y5ydzze3ljyrimm7o42vhe7ni56im7qd.onion
 4. http://invest2jwbjfak7psxfwhopelch2ygns5lz2i7524n4ppuykclk3z3yd.onion/cap-bitcoin/index12.html
-5. http://invest2jwbj fak7psxfwhopelch2ygns5lz2i7524n4ppuykclk3z3yd.onion/bitcoin-calc/index.html
+5. http://invest2jwbjfak7psxfwhopelch2ygns5lz2i7524n4ppuykclk3z3yd.onion/bitcoin-calc/index.html
 6. http://invest5065tyclmqsyzcqeoq25vlnwfcrbb3uyfpp7xijp6tyc6nkkid.onion/explorer-ethereum/index12.html
 7. http://invest2jwbjfak7psxfwhopelch2ygns5lz2i7524n4ppuykclk3z3yd.onion/today-bitcoin/index12.html
 8. http://invest4togyppwg45e4ug2nou7jkbfutvr6dhwg7wahvx7z4kjc4sgqd.onion/phoenix-bitcoin/index2.html
