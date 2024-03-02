@@ -60,7 +60,7 @@ Marketplaces:
 
 Forums: 
 1. StockInsider: http://thestock6nonb74owd6utzh4vld3xsf2n2fwxpwywjgq7maj47mvwmid.onion
-2. AnonGTS: http://4usoipy 52Iinc4mgh2h 34cmilislesthr56ytwv2pxud3dapqcyd.onion
+2. AnonGTS: http://4usoipy 52Iinc4mgh2h34cmilislesthr56ytwv2pxud3dapqcyd.onion
 3. Endchan: http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion
 4. http://dna777is7kr46zcsvv7mefmpqwm67irdgyuu5kda2data.3402/
 5. http://dna777is7 kr46zcsvv7mefmpqwm67irdgyuu5kda2anonymity-sellers.10/
@@ -69,11 +69,11 @@ Forums:
 8. http://dna777fdlbcv24cx5ctdvydvfa277vgb6wd6w4ztem6cho3kqogi7bqd.onion/search/88305/?q=pakistan&t=post&o=date
 9. http://dna777fdlbcv24cx5ctdvydvfa277vgb6wd6w4ztem6cho3kqogi7bqd.onion/forums/hacked-database-leaks.27/
 10. http://zylb5ndtt25kzblz2sjihuwfbviaucch35dldv65b7gff73zsr52nyid.onion/?page=0
-11. http://xq5hcm32m7ipdqt2ydqj6cc7lpj3lw3iwqnxiak2juynysoevjman cad.onion/
+11. http://xq5hcm32m7ipdqt2ydqj6cc7lpj3lw3iwqnxiak2juynysoevjman.cad.onion/
 12. http://hqvv7qwjs72kh65qsmwj3ifwtdgewiiiip62rkvmaq6q7zhhqrta2wid.onion/threads/we-have-increased-security-and-privacy.7271/
 
 Bitcoin 
-1. EasyCoin: http://mp3fpv6xbrwka4skqliifoizghfbjy5uyu7 7wwnfruwub5s4hly2oid.onion
+1. EasyCoin: http://mp3fpv6xbrwka4skqliifoizghfbjy5uyu77wwnfruwub5s4hly2oid.onion
 2. BitPharma: http://guzjgkpodzshso2nohspxijzk5jgoaxzqioa7vzy6qdmwpz3hq4mwfid.onion
 3. Onion Wallet: http://zw5I7hwmfq2bl7euedg6y5ydzze3ljyrimm7o42vhe7ni56im7qd.onion
 4. http://invest2jwbjfak7psxfwhopelch2ygns5lz2i7524n4ppuykclk3z3yd.onion/cap-bitcoin/index12.html
@@ -102,7 +102,7 @@ Whistle blowing
 5. http://i4pd4zpyhrojnyx513d2siauy4almteocqow4bp2lqxyocrfy6prycad.onion/earsandeyes/no-javascript/country/china.html
 6. http://ramsayswljlwqo7yvw3ovxhyzavllyduxkgh4rbobzkc263jyro6cjyd.onion/
 7. http://ukrainew slsunpkh7tlahmi3sx5rzsftjzp53p32zyfv73d4mp3bnqad.onion/info/resistance.php
-8. http://7eoz4h2nbr6mwlhynl53h2hrkjuip7snfgxmbjtokkxe7ok5vgazs6id.onion/index.php/politics http://ukrainewslsunpkh7tlahmi3sx5rzsftjzp53p32zyfv73d4mp3bnqad.onion/info/maps.php
+8. http://7eoz4h2nbr6mwlhynl53h2hrkjuip7snfgxmbjtokkxe7ok5vgazs6id.onion/index.php/politics 
 9. http://c7tk4f2k7wbkoytksvskifcnv3hvxnhlqjligmio kra4zlwzyqganyad.onion/
 10. http://belarusup5vmywbr2fqh7ttl3xh4nla2hi2v6lfq231txc5jh4qea2yd.onion/info/news.php
 11. http://bellcatmbguthn3age23lrbseln2lryzv3mt7whis7ktjw4qrestbzad.onion/
