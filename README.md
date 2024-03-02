@@ -107,7 +107,7 @@ Whistle blowing
 10. http://belarusup5vmywbr2fqh7ttl3xh4nla2hi2v6lfq231txc5jh4qea2yd.onion/info/news.php
 11. http://bellcatmbguthn3age23lrbseln2lryzv3mt7whis7ktjw4qrestbzad.onion/
 12. http://stormer5v52vjsw66jmds7ndeecudq444woadhzr2plxlaayexnh6eqd.onion/zelensky-says-putin-will-never-stop-lies-about-the-ukraines-casualties/
-13. http://g7ee50tfyict57k24vjujuqzi6pd7iwvnsry2mt3svsgwzn6o6iynsad.onion/popets/2022/ http://g7ee50tfyict57k24vjujuqzi6pd7iwvnsry2mt3 svsgwzn6o6iynsad.onion/popets/2022/
+13. http://g7ee50tfyict57k24vjujuqzi6pd7iwvnsry2mt3svsgwzn6o6iynsad.onion/popets/2022/ 
 14. http://unijoinxaogdzmk3bonngoxxoaezkmsfdyrtfyximisungh2dnc2azad.onion/en/blog/dark-web-untamed-territory
 15. http://bxewpsswttslepw27w2hhxhlizwm7l7y54x3jw5cfrb64hb6lgc557ad.onion/@davidbombal/hacking-myths-blowing-up-buildings-like:6
 16. http://snsnsnya6h3ot563f3p566wuhfoklkg5f62hokdlaqzcaub3gf4xlxyd.onion/items/46472
@@ -195,7 +195,8 @@ Chat Rooms:
 3. http://deepwebyl3au3fnm4efynncy5.fhiqknam3op6q3qgdwu3n5oavo.fifqd.onion/onion-blogs-forums-chats-v3
 4. http://torwikijwqskahohtn35pyfde2uqmgrxgr2fru4mn4rer5muj445dxyd.onion/blogs-forums-chats
 5. http://mvw.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/
-6. http://torlisthsxo7h65pd2po7kevpzkk4wwf3czylz3izcmsx4jzwabbopyd.onion/deep-web-chat-rooms-v3 http://torlink2uegl22vwzop42t4eipy2r2eksk67kvan4vx4r6h77t3cejad.onion/miscellaneous/privacy-service
+6. http://torlisthsxo7h65pd2po7kevpzkk4wwf3czylz3izcmsx4jzwabbopyd.onion/deep-web-chat-rooms-v3
+7. http://torlink2uegl22vwzop42t4eipy2r2eksk67kvan4vx4r6h77t3cejad.onion/miscellaneous/privacy-service
 
 
 
