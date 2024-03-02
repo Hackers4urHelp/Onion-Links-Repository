@@ -134,7 +134,7 @@ Guns Store
  
 Drug Store
 1. Drug store: http://4p6i33oqj6wgvzgzczyqlueav3tz456rdu632xzyxbnhq4gpsriirtqd.onion/index.php
-2. DC dutchconnectionUK: http//wms5y25kttgihs4rt2sifsbwsjqjrx3vtc42tsu2obksqkj7y666fgid.onion/
+2. DC dutchconnectionUK: http://wms5y25kttgihs4rt2sifsbwsjqjrx3vtc42tsu2obksqkj7y666fgid.onion/
 3. 420Prime: http://rbexodz/socx3rupvmhan2d?pvlksdoqmtxexz6acyxblc36a6qgk.onion
 4. TomAndJerry: http://c5xoy22aadb2rqgw3jh2m2irmu563evukqqddu5zjandunaimzaye5id.onion
 5. DrChronic: http://gkcns4d3453llqjrksxdijfmmdjpqsykt6misgojxlhsnpivtl3uwhqd.onion
