@@ -63,7 +63,7 @@ Forums:
 2. AnonGTS: http://4usoipy52Iinc4mgh2h34cmilislesthr56ytwv2pxud3dapqcyd.onion
 3. Endchan: http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion
 4. http://dna777is7kr46zcsvv7mefmpqwm67irdgyuu5kda2data.3402/
-5. http://dna777is7 kr46zcsvv7mefmpqwm67irdgyuu5kda2anonymity-sellers.10/
+5. http://dna777is7kr46zcsvv7mefmpqwm67irdgyuu5kda2anonymity-sellers.10/
 6. http://dna777is7kr46zcsvv7mefmpqwm67irdgyuu5kda2shame.33/
 7. http://dna777fdlbcv24cx5ctdvydvfa277vgb6wd6w4ztem6cho3kqogi7bqd.onion/dbtech-usertag/hashes/beluga.2326/
 8. http://dna777fdlbcv24cx5ctdvydvfa277vgb6wd6w4ztem6cho3kqogi7bqd.onion/search/88305/?q=pakistan&t=post&o=date
@@ -101,13 +101,13 @@ Whistle blowing
 4. http://i4pd4zpyhrojnyx513d2siauy4almteocqow4bp2lqxyocrfy6prycad.onion/earsandeyes/no-javascript/country/russia.html
 5. http://i4pd4zpyhrojnyx513d2siauy4almteocqow4bp2lqxyocrfy6prycad.onion/earsandeyes/no-javascript/country/china.html
 6. http://ramsayswljlwqo7yvw3ovxhyzavllyduxkgh4rbobzkc263jyro6cjyd.onion/
-7. http://ukrainew slsunpkh7tlahmi3sx5rzsftjzp53p32zyfv73d4mp3bnqad.onion/info/resistance.php
+7. http://ukrainewslsunpkh7tlahmi3sx5rzsftjzp53p32zyfv73d4mp3bnqad.onion/info/resistance.php
 8. http://7eoz4h2nbr6mwlhynl53h2hrkjuip7snfgxmbjtokkxe7ok5vgazs6id.onion/index.php/politics 
-9. http://c7tk4f2k7wbkoytksvskifcnv3hvxnhlqjligmio kra4zlwzyqganyad.onion/
+9. http://c7tk4f2k7wbkoytksvskifcnv3hvxnhlqjligmiokra4zlwzyqganyad.onion/
 10. http://belarusup5vmywbr2fqh7ttl3xh4nla2hi2v6lfq231txc5jh4qea2yd.onion/info/news.php
 11. http://bellcatmbguthn3age23lrbseln2lryzv3mt7whis7ktjw4qrestbzad.onion/
 12. http://stormer5v52vjsw66jmds7ndeecudq444woadhzr2plxlaayexnh6eqd.onion/zelensky-says-putin-will-never-stop-lies-about-the-ukraines-casualties/
-13. http://g7ee50tfyict57k24vjujuqzi6pd7iwvnsry2mt3 svsgwzn6o6iynsad.onion/popets/2022/ http://g7ee50tfyict57k24vjujuqzi6pd7iwvnsry2mt3 svsgwzn6o6iynsad.onion/popets/2022/
+13. http://g7ee50tfyict57k24vjujuqzi6pd7iwvnsry2mt3svsgwzn6o6iynsad.onion/popets/2022/ http://g7ee50tfyict57k24vjujuqzi6pd7iwvnsry2mt3 svsgwzn6o6iynsad.onion/popets/2022/
 14. http://unijoinxaogdzmk3bonngoxxoaezkmsfdyrtfyximisungh2dnc2azad.onion/en/blog/dark-web-untamed-territory
 15. http://bxewpsswttslepw27w2hhxhlizwm7l7y54x3jw5cfrb64hb6lgc557ad.onion/@davidbombal/hacking-myths-blowing-up-buildings-like:6
 16. http://snsnsnya6h3ot563f3p566wuhfoklkg5f62hokdlaqzcaub3gf4xlxyd.onion/items/46472
@@ -125,11 +125,11 @@ Guns Store
 3. http://firearmh73frrpeene3bbbdpxj3pgac3yvxafqve2jss3yt6uk4sjfid.onion
 4. http://kw4zInfhxje7top26u57iosg55i7dzuljjcyswo2clgc3mdliviswwyd.onion/product/do-it-yourself-submachine-gun/
 5. http://dnkdlqsa7rrwoprxucfcmdrygnf7dgz5ikocnexlvafr4ixdcc37yvid.onion/
-6. http://66gws5jrvgn5 inp6bnejc67ullzq4kdufucwkazfrcu77gk6xikmetad.onion/
+6. http://66gws5jrvgn5inp6bnejc67ullzq4kdufucwkazfrcu77gk6xikmetad.onion/
 7. http://bmguns7xglvmnlnz5nd543dczp3fnsfd6jecwpjomvhov4dn4ikxmqyd.onion/?product=nlaw-anti-tank-weapon
 8. http://x4fcceh6bfwxr4b54i6tgufhmut43jqqi4oeapg3oubjlrkzzm5bw5qd.onion/shop/
 9. http://firearmh73frrpeene3bbbdpxj3pgac3yvxafqve2jss3yt6uk4sjfid.onion/?product=mk48-belt-fed
-10. http://wvaelbpvuh4x6lldesvkkycelyrt3 vrzlig7ktujqkyoga4h6ypvzjqd.onion/product/galil-mar-micro/
+10. http://wvaelbpvuh4x6lldesvkkycelyrt3vrzlig7ktujqkyoga4h6ypvzjqd.onion/product/galil-mar-micro/
 11. http://dnkdlqsa7rrwoprxucfcmdrygnf7dgz5ikocnexlvafr4ixdcc37yvid.onion/
  
 Drug Store
@@ -148,15 +148,15 @@ Drug Store
 13. http://muwgidckwwmhyi7lj73dspumrxmzuzjvujmtmyrhhbjrgswcakobtfad.onion/product-tag/ketamine-
 14. http://muwgjdckwwmhyi7lj73dspumrxmzuzjvujmtmyrhhbjrgswcakobtfad.onion/product/buy-crystal-
 15. http://muwgjdckwwmhyi7lj73dspumrxmzuzjvujmtmyrhhbjrgswcakobtfad.onion/product/100pills-mg/drug-buy-online-india/meth-online 10grams/oxycodone-30mg-m30-pharma-grade/?add-to-cart=1977
-16. http://wiki6dtqpuvw tc5hopuj33eeavwa6sik7sy57cor35chkx5nrbmmolqd.onion/news/searching-for-a-pharmacy/
+16. http://wiki6dtqpuvwtc5hopuj33eeavwa6sik7sy57cor35chkx5nrbmmolqd.onion/news/searching-for-a-pharmacy/
 17. http://muwgjdckwwmhyi7lj73dspumrxmzuzjvujmtmyrhhbjrgswcakobtfad.onion/product/60pills-x-
 18. http://muwgjdckwwmhyi7lj73dspumrxmzuzjvujmtmyrhhbjrgswcakobtfad.onion/product/fentanyl-
 19. http://muwgidckwwmhyi7lj73dspumrxmzuzjvujmtmyrhhbjrgswcakobtfad.onion/product/quality-
 20. http://muwgjdckwwmhyi7lj73dspumrxmzuzjvujmtmyrhhbjrgswcakobtfad.onion/product/buy-100-ml-pure-xanax-bars-white-2mg/capsules-30mg/adderall-30mg-100pills-for-350/pentobarbital-sodium-nembutal-oral-liquid/
-21. http://scaa6fzk2n2rj5gxtv3p5nmb fhvu6wscj4vysw7hz3pycawsekdimhyd.onion/product/buy-demerol-online/
+21. http://scaa6fzk2n2rj5gxtv3p5nmbfhvu6wscj4vysw7hz3pycawsekdimhyd.onion/product/buy-demerol-online/
 22. http://muwgidckwwmhyi7lj73dspumrxmzuzjvujmtmyrhhbjrgswcakobtfad.onion/product/buy-50-
 23. http://muwgidckwwmhyi7lj73dspumrxmzuzjvujmtmyrhhbjrgswcakobtfad.onion/product-tag/drug-suicide-nembutal-phenobarbital-sodium-pills-100mg-online/fentanyl/
-24. http://scaa6fzk2n2rj5gxtv3p5nmb fhvu6wscj4vysw7hz3pycawsekdimhyd.onion/product/buy-potassium-cyanide-online/
+24. http://scaa6fzk2n2rj5gxtv3p5nmbfhvu6wscj4vysw7hz3pycawsekdimhyd.onion/product/buy-potassium-cyanide-online/
 
 Commercial Services
 1. Dark web Hacker: http://zkj7mzglnrbvu3elepazau7ol26cmq7acryvsqxvh4sreoydhzin7zid.onion
@@ -174,7 +174,7 @@ Mail Provider:
 3. Systemli.org: http://7sk2kov2xwx6cbc32phynrifegg6pklmzs7luwcggtzrnlsolxxuyfyd.onion/en/index.html
 4. RiseUP: http://vww6ybal4bd7szmgneyruucpgkqahzddi37ktceo3ah7ngmcopnpyyd.onion
 5. Mail2Tor: http://mail2torjgmxgexntbrmhvgluavhj7ouul5yar6ylbvjkxwqf6ixkwyd.onion
-6. TorBox: http://torbox36ilcevujx7mjb4oiusvwgvmue 7jfn2cvutwa6kl6to3uyqad.onion
+6. TorBox: http://torbox36ilcevujx7mjb4oiusvwgvmue7jfn2cvutwa6kl6to3uyqad.onion
 7. Email and XMPP: http://danielas3rtn54uwmofdo3x2bsdir47huasnmbgqzfrec5ubupvtpid.onion/mail/
 8. OnionMail: http://pfiujznptk5lmuf6xwadfqy6nffykdvahfbljh7lljailjbxrgvhfid.onion
 9. DNMX: http://dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion
@@ -184,7 +184,7 @@ Mail Provider:
 13. http://us3xsdrhmhk4h3bkuq7ttkp6pocs4726esycpgwtogrpu3nfjj6eroqd.onion/email-comment-section.6
 14. http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/starttls
 15. http://i4pd4zpyhrojnyx513d2siauy4almteocqow4bp2lqxyocrfy6prycad.onion/threat-library/techniques/service-provider-collaboration.html
-16. http://occgshn6gz4je57wyhpijni 7waod6yxpxwihjdxjwrnpjtbayliei2id.onion/xmrvps.html
+16. http://occgshn6gz4je57wyhpijni7waod6yxpxwihjdxjwrnpjtbayliei2id.onion/xmrvps.html
 17. http://hbl6udan73w7qbjdey6chsu5gq5ehrfqbb73jq726kj3khnev2yarlid.onion/#
 18. http://hxuzjtocnzvv5g2rtg2bhwkcbupmk7rclb6lly3fo4tvqkk5oyrv3nid.onion/
 19. http://metagerv65pwclop2rsfzg4jwowpavpwd6grhhlvdgsswvo6ii4akgyd.onion/meta/meta.ger3?eingabe=email%20providers&focus=web&mgv=03763386878188643da5ea066128641a&ua=1
