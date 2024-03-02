@@ -204,10 +204,10 @@ Chat Rooms:
 
 Reporting Links
 If you come across any content related to child pornography or any other illegal activities on the sites listed above, please report it immediately using the following links: 
-https://cybercrime.gov.in/
-https://www.ic3.gov/
-https://www.cisa.gov/report
-https://www.justice.gov/criminal/criminal-ccips/reporting-computer-internet-related-or-intellectual-property-crime
+1. https://cybercrime.gov.in/
+2. https://www.ic3.gov/
+3. https://www.cisa.gov/report
+4. https://www.justice.gov/criminal/criminal-ccips/reporting-computer-internet-related-or-intellectual-property-crime
 
 Your contribution to maintaining a safe and ethical online environment is crucial. Setting Up Tails for Onion Browsing
  
