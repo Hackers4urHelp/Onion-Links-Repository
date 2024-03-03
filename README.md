@@ -57,6 +57,11 @@ Marketplaces:
 1. Nemesis: http://nemesis555nchzn2dogee6mlc7xxgeeshqirmh3yzn4lo5cnd4s5a4yd.onion
 2. Dark Empire Market: http://2a2a2abbjsjcjwfuozip6idfxsxyowoi3ajqyehqzfqyxezhacur7oyd.onion
 3. Underground Market: http://2222fxq4xfkvilzdihu5ybce7ztf66fr6c7ub3enabg5iya2f34ac5id.onion
+4. Trust Market : http://trustmme4k4gwlxmrphwzn7pmv5r4ot4bhvgbsjstkwqztk7oqjkiiid.onion/
+5. Empire Market : http://2a2a2abbjsjcjwfuozip6idfxsxyowoi3ajqyehqzfqyxezhacur7oyd.onion/
+6. http://hn2paw7zaahbikbejiv6h22zwtijlam65y2c77xj2ypbilm2xs4bnbid.onion/newcap2.php
+7. http://emarketzhfjehkqd53lnjgmtvbf7tseydias4rjpazwifiqcotoi2gad.onion/
+   
 
 Forums: 
 1. StockInsider: http://thestock6nonb74owd6utzh4vld3xsf2n2fwxpwywjgq7maj47mvwmid.onion
@@ -71,6 +76,11 @@ Forums:
 10. http://zylb5ndtt25kzblz2sjihuwfbviaucch35dldv65b7gff73zsr52nyid.onion/?page=0
 11. http://xq5hcm32m7ipdqt2ydqj6cc7lpj3lw3iwqnxiak2juynysoevjman.cad.onion/
 12. http://hqvv7qwjs72kh65qsmwj3ifwtdgewiiiip62rkvmaq6q7zhhqrta2wid.onion/threads/we-have-increased-security-and-privacy.7271/
+13. HeLL Forum: http://hell2ker5i3xsy6szrl2pulaqo3jhcz6pt7ffdxtuqjqiycvmlkcddqd.onion/
+14. Best Carding World: http://bestteermb42clir6ux7xm76d4jjodh3fpahjqgbddbmfrgp4skg2wqd.onion/
+15. DEEPWEB Q&A: http://b7ehf7dabxevdsm5szkn2jecnliwzoxlsn4lijxqxikrlykbbsfrqfad.onion/
+16. Hot Take: http://nhyjv5roo73lkt46jrspc6hng3c6fdfy4fjd6yi43lu3oy6v7duew3ad.onion/
+17. Hidden Answers: http://lp2fkbyfmiefvscyawqvssyh7rnwfjsifdhebp5me5xizte3s47yusqd.onion/
 
 Bitcoin 
 1. EasyCoin: http://mp3fpv6xbrwka4skqliifoizghfbjy5uyu77wwnfruwub5s4hly2oid.onion
@@ -89,10 +99,14 @@ File Shearing
 3. Stronghold Paste: http://strongerw2ise74v3duebgsvug4mehyhlpa7f6kfwnas7zofs3kov7yd.onion
 4. SecureDrop: http://sdolvtfhatvsysc6l34d65ymdwxcujausv7k5jk4cy5ttzhjoi6fzvyd.onion
 5. Easy Image Upload: http://oju4yn237c6hjh42qothvpreqecnqjhtvh4sgn3fqmsdvhu5d5tyspid.onion
-6. http://starfilesmj35tuw5bf7qaxfpf4d6tydvqjbftzw23t3ghtjreyx45id.onion/
-7. https://starfiles.co/file/X3LBQQHnSGwx/YouTube-Icon-png
-8. http://v7b2m4l54kgqmqoqbufvgo5cmtmnx34k7tdl4axpgcduerbiegxc2wid.onion/apple-tv-4k/index.html
-9. http://writeasw4b635r4o3vec6mu45s47ohfyro5vayzx2zjwod4pjswyovyd.onion/blog/better-sharing
+6. YATL || CP sites for sharing videos: http://sxjfx7xdcimp4xyaqpy6f5ugewlkjmrrymqlgz7de23acmizsxpvklyd.onion/videos.php
+7. the torrc file : https://v236xhqtyullodhf26szyjepvkbv6iitrhjgrqj4avaoukebkk6n6syd.onion/t/a-question-about-the-torrc-file/8341
+8. AirVPN :  https://airvpn3epnw2fnsbx5x2ppzjs6vxtdarldas7wjyqvhscj7x43fxylqd.onion/forums/topic/50663-youve-been-asked-for-a-support-filesystem-report-%E2%80%93-heres-what-to-do/?tab=comments#comment-178226
+9. OnionDir : http://oniodtu6xudkiblcijrwwkduu2tdle3rav7nlszrjhrxpjtkg4brmgqd.onion/
+10. http://starfilesmj35tuw5bf7qaxfpf4d6tydvqjbftzw23t3ghtjreyx45id.onion/
+11. https://starfiles.co/file/X3LBQQHnSGwx/YouTube-Icon-png
+12. http://v7b2m4l54kgqmqoqbufvgo5cmtmnx34k7tdl4axpgcduerbiegxc2wid.onion/apple-tv-4k/index.html
+13. http://writeasw4b635r4o3vec6mu45s47ohfyro5vayzx2zjwod4pjswyovyd.onion/blog/better-sharing
 
 Whistle blowing
 1. https://www.wikileaks.org ( WikiLeaks)
@@ -113,11 +127,24 @@ Whistle blowing
 16. http://snsnsnya6h3ot563f3p566wuhfoklkg5f62hokdlaqzcaub3gf4xlxyd.onion/items/46472
 17. http://lpiyu33yusoalp5kh3f4hak2so2sjjvjw5ykyvu2dulzosgvuffq6sad.onion/workshops/OpenPGP-How-to-Protect-Everything-with-Pretty-Good-Privacy
 18. http://ig2ioz6j2vpcmz27nlqmfdrscijqeqnjv6ku3pkpte7pm53gxeal5hqd.onion/catalog.php
+19. https://gm64cjz7un7ucso4yegkssuqfzmg7ctn7mkb66c7l6sj7gzyo6syphid.onion/2020/02/06/border-wall-construction-organ-pipe/
+20. https://gm64cjz7un7ucso4yegkssuqfzmg7ctn7mkb66c7l6sj7gzyo6syphid.onion/2020/04/22/trump-urges-doctors-lie-live-tv-federal-official-says-fired-limiting-use-hydroxychloroquine/
+21. http://onion755g5wulsenemva5fzzfky4waep7v43gnfcdydv2d6dgejoenid.onion/v/141838
+22. http://ahdemogiwgycere5gc3r4lzyusa77ksrt6q7fcc2nall27gpnxkzdvid.onion/2022/03/04/how-the-u-s-federal-government-sponsors-child-smuggling-and-sex-trafficking/
+23. http://f7rkl2pb2uwyyrw3mgaxstwig3nhpl25fhjdvoultpn4j56n3vkbgkad.onion/famous-polish-film-producer-creates-documentary-exposing-the-sale-of-babies-for-sex-and-organ-harvesting-if-you-can-handle-it/
+24. http://f7rkl2pb2uwyyrw3mgaxstwig3nhpl25fhjdvoultpn4j56n3vkbgkad.onion/famous-polish-film-producer-creates-documentary-exposing-the-sale-of-babies-for-sex-and-organ-harvesting-if-you-can-handle-it/print
+25. https://gm64cjz7un7ucso4yegkssuqfzmg7ctn7mkb66c7l6sj7gzyo6syphid.onion/2019/05/17/border-smuggling-journalists-activists/
+26. http://lyeufajq7n43xog2bsdcyu3pqt56hucwcnwq2b4hnxlqhszk4alkhnid.onion/?Wien-6-Polizeiautos-von-Joint-Operational-Office-against-Human-Smuggling-2050
+
 
 VPN
 1. CryptoStorm: http://stormwayszuh4juycoy4kwoww5gvcu2c4tdtpkup667pdwe4qenzwayd.onion
 2. RiseUP: http://vww6ybal4bd7szmgneyruucpgkqahzddi37ktceo3ah7ngmcopnpyyd.onion
 3. Titan-XMPP: http://titanxsu7bfd7vlyyffilprauwngr4acbnz27ulfhyxrqutu7atyptad.onion
+4. Xeovo VPN : http://xeovok4d6ehoclmlyviwuq7zlmcvucuekhrt2677r33ny2csyd4yldyd.onion/
+5. Mullvad VPN : http://o54hon2opbibmxszkmdsmvub6mxskw6xjmmx3a6wwbhfqt26c5mfpuqd.onion/en
+6. AirVPN : https://airvpn3epnw2fnsbx5x2ppzjs6vxtdarldas7wjyqvhscj7x43fxylqd.onion/forums/topic/56411-services-that-support-tls-crypt/
+
 
 Guns Store
 1. UK Guns and Ammos: http://onili244aue7jkvzn2bgaszcb7nznkpyihdhh7evflp3iskfq7vhlzid.onion
@@ -131,6 +158,11 @@ Guns Store
 9. http://firearmh73frrpeene3bbbdpxj3pgac3yvxafqve2jss3yt6uk4sjfid.onion/?product=mk48-belt-fed
 10. http://wvaelbpvuh4x6lldesvkkycelyrt3vrzlig7ktujqkyoga4h6ypvzjqd.onion/product/galil-mar-micro/
 11. http://dnkdlqsa7rrwoprxucfcmdrygnf7dgz5ikocnexlvafr4ixdcc37yvid.onion/
+12. Black Market Guns: http://xcpfdeyc6apqk2lquz2nylumig7pecceqbqblallmoiyzatdlsl6r3qd.onion/?page_id=3782
+13. BMG: http://bmgmndmummqmcf6yoceolnigaozzqxe3kd6ebetii6bqopifg4dt4jad.onion/
+14. Reviewed and Trusted Firearms Dealer Gun Market Email: http://gtwyjxq4vma6pqklu362verv5czebzcigck52lgureoze4qobfnbctqd.onion/
+15. TOR GUNS AND AMMO: http://y3uqa5umvziqedr6ox3io7qx4o5kf635s5qnhdbmzi2ws3s5eaitwvid.onion/
+
  
 Drug Store
 1. Drug store: http://4p6i33oqj6wgvzgzczyqlueav3tz456rdu632xzyxbnhq4gpsriirtqd.onion/index.php
@@ -157,6 +189,9 @@ Drug Store
 22. http://muwgidckwwmhyi7lj73dspumrxmzuzjvujmtmyrhhbjrgswcakobtfad.onion/product/buy-50-
 23. http://muwgidckwwmhyi7lj73dspumrxmzuzjvujmtmyrhhbjrgswcakobtfad.onion/product-tag/drug-suicide-nembutal-phenobarbital-sodium-pills-100mg-online/fentanyl/
 24. http://scaa6fzk2n2rj5gxtv3p5nmbfhvu6wscj4vysw7hz3pycawsekdimhyd.onion/product/buy-potassium-cyanide-online/
+25. http://rocco7hjqtv5adbugdr34jh25jhao7tryqkxgdvc5kisp753q5iomgad.onion
+26. http://7ydb6d6gfmqtwwfeoxh7aeibtahujfl62dux7sxwtbhapvlis4htveyd.onion/
+27. http://tordexu73joywapk2txdr54jed4imqledpcvcuf75qsas2gwdgksvnyd.onion/directory/drugs
 
 Commercial Services
 1. Dark web Hacker: http://zkj7mzglnrbvu3elepazau7ol26cmq7acryvsqxvh4sreoydhzin7zid.onion
@@ -164,6 +199,8 @@ Commercial Services
 3. Apples4Bitcoin: http://awsvrc7occzj2yeyqevyr7j5ejuyofhfomidhh5qnuxpvwsucno7id.onion
 4. USA Citizenship: http://pz5uprzhnzeotviraa2fogkua5nlnmu75pbnnqu4fnwgffldwxog7ad.onion
 5. UK Passport: http://wosc4noitfscyywccasl3c4yu3lftpl2adxuvprp6sbg4fud6mknqqd.onion
+6. http://hwyegmzywsuobruaajrbhz4xmoyennu2hj2yc5i5l2q32mxaoetz5bid.onion/
+7. 
 
 HitMan
 1. Mexican Mafia: http://4cfwyqbaq3bxfqruebg3d7r6cvly75ftvivs3l5g6mudomrntm3xixid.onion
@@ -188,15 +225,22 @@ Mail Provider:
 17. http://hbl6udan73w7qbjdey6chsu5gq5ehrfqbb73jq726kj3khnev2yarlid.onion/#
 18. http://hxuzjtocnzvv5g2rtg2bhwkcbupmk7rclb6lly3fo4tvqkk5oyrv3nid.onion/
 19. http://metagerv65pwclop2rsfzg4jwowpavpwd6grhhlvdgsswvo6ii4akgyd.onion/meta/meta.ger3?eingabe=email%20providers&focus=web&mgv=03763386878188643da5ea066128641a&ua=1
+20. http://chatorcvcl25nskltysozugy36pplnrwpbgwovh6mbwwzy2bzgq2hkyd.onion/
+21. http://hxuzjtocnzvv5g2rtg2bhwkcbupmk7rclb6lly3fo4tvqkk5oyrv3nid.onion/
 
 Chat Rooms:
-1. http://zqz43hjr4azeovtgr4osgdsok66d7ezawoysxxuyyw4qzia6hdhaosqd.onion/indexeb11.html?q=sesc
-2. http://libraryqxxiqakubqv3dc2bend2koqsndbwox2joh.fywcatxie26b.sad.onion/special/index
-3. http://deepwebyl3au3fnm4efynncy5.fhiqknam3op6q3qgdwu3n5oavo.fifqd.onion/onion-blogs-forums-chats-v3
-4. http://torwikijwqskahohtn35pyfde2uqmgrxgr2fru4mn4rer5muj445dxyd.onion/blogs-forums-chats
-5. http://mvw.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/
-6. http://torlisthsxo7h65pd2po7kevpzkk4wwf3czylz3izcmsx4jzwabbopyd.onion/deep-web-chat-rooms-v3
-7. http://torlink2uegl22vwzop42t4eipy2r2eksk67kvan4vx4r6h77t3cejad.onion/miscellaneous/privacy-service
+1. Delta Chat: http://aum5iuua7w7hwwfx62e2durlwfbwc3obt3phvcypplkrzcyjbh6eywyd.onion/en/email/clients/delta-chat
+2. Recent questions tagged chat - The Tor Forum : http://aqzdjsl26mcnh3sfxe2y2zav32pihynjt2fsmt5odi5e2siy6me4htid.onion/index.php?qa=tag&qa_1=chat
+3. CoyIM - safe and secure chat : http://qvt3o2ipzxx3gtoyafd3ptqwsxjs52enlwlxuryn2xjkm7hnp5icd6yd.onion/ 
+4. HeBe + TeeN ChaT : http://wg7ljicnzfrh7dhssrsqgiqhqe7vgzc2ovyit2zz5bgiolztieljmjyd.onion/
+5. Chat XXX :  http://chatxxxocni24gsy5vuz52wzpiko4mxneujbbzp5hfsqz53cetk54eqd.onion/
+6. http://zqz43hjr4azeovtgr4osgdsok66d7ezawoysxxuyyw4qzia6hdhaosqd.onion/indexeb11.html?q=sesc
+7. http://libraryqxxiqakubqv3dc2bend2koqsndbwox2joh.fywcatxie26b.sad.onion/special/index
+8. http://deepwebyl3au3fnm4efynncy5.fhiqknam3op6q3qgdwu3n5oavo.fifqd.onion/onion-blogs-forums-chats-v3
+9. http://torwikijwqskahohtn35pyfde2uqmgrxgr2fru4mn4rer5muj445dxyd.onion/blogs-forums-chats
+10. http://mvw.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/
+11. http://torlisthsxo7h65pd2po7kevpzkk4wwf3czylz3izcmsx4jzwabbopyd.onion/deep-web-chat-rooms-v3
+12. http://torlink2uegl22vwzop42t4eipy2r2eksk67kvan4vx4r6h77t3cejad.onion/miscellaneous/privacy-service
 
 
 
